@@ -1,14 +1,3 @@
-#Created for coded32 and his teamopenfire Eliminated Some bugs from my last code shared here as Guest.
-#Greets To T.O.F and Indishell
-#Thanks friends for find bugs and give suggetions
-
-#cd direcory/to/code
-#direcory/to/code>python code.py
-
-#improved Error Handling
-#Find out usefull stuffs from www.teamopenfire.com
-#"wE aRe gREat inDIans"
-
 import http.client
 import socket
 import sys
@@ -30,6 +19,7 @@ try:
     print("\t#                                            coded by Ajith KP #")
     print("\t#                          Greets to Coded32 and T.O.F members #")
     print("\t################################################################")
+    print("Modded by neon-l to be compatible with python3")
     var1=0
     var2=0
 
